@@ -2,8 +2,8 @@
 
 """Defines a class Square"""
 
-class Square:
+class Squarei():
     """Empty class that defines a square
        No attribut 
-       No Propreties"""
+       No Properties"""
     pass
